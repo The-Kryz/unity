@@ -14,6 +14,6 @@ public class SplashManager : MonoBehaviour
     void IrParaMenu()
     {
         // Carrega a cena de índice 1 (Menu) que configuramos no Build Settings
-        SceneTransition.Instance.LoadScene("Menu");r 
+        SceneTransition.Instance.LoadScene("Menu");
     }
 }
